@@ -1,6 +1,6 @@
 # Currency-Converter
 
-A new Flutter project.
+A basic currency converter app made using Flutter for converting USD to INR.
 
 ## Getting Started
 
